@@ -72,7 +72,7 @@ I'm a passionate Full Stack Developer with expertise in modern web technologies.
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ranthu-Sai&theme=dark" onerror="this.src='https://github-readme-stats.vercel.app/api?username=Ranthu-Sai&theme=dark&hide_border=true&include_all_commits=true&count_private=true'" alt="GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ranthu-Sai&theme=dark&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.vercel.app/?user=Ranthu-Sai&theme=dark&hide_border=true" alt="GitHub Streak"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranthu-Sai&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" onerror="this.src='https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ranthu-Sai&theme=dark'" alt="Top Languages"/>
 </p>

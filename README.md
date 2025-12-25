@@ -1,6 +1,6 @@
 # Hi there, I'm Sai Ranthu! 👋
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Ranthu-Sai&owner=Ranthu-Sai)
+![Visitor Count](https://komarev.com/ghpvc/?username=Ranthu-Sai)
 
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=40&duration=2500&pause=500&color=5B74F7&center=true&vCenter=true&random=false&width=647&lines=Hello+%F0%9F%91%8B;I+am+Sai+Ranthu+%F0%9F%98%81;A+Full+Stack+Developer+%F0%9F%92%BB" alt="Typing SVG" /></a></h3>
 

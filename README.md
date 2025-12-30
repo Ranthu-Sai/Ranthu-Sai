@@ -74,7 +74,7 @@ I'm a passionate Full Stack Developer with expertise in modern web technologies.
   <br/>
   <img src="https://streak-stats.vercel.app/?user=Ranthu-Sai&theme=dark&hide_border=true" alt="GitHub Streak"/>
   <br/>
-  <div style="display: flex; width: 100%; justify-content: space-between; align-items: flex-start;">
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; align-items: center;">
     <img src="https://most-used-langs.vercel.app/api/top-langs?username=Ranthu-Sai&theme=dark&hide_border=true&layout=compact" alt="Top Languages"/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ranthu-Sai&theme=dark" alt="Language Stats"/>
   </div>

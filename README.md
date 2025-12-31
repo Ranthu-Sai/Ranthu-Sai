@@ -70,14 +70,14 @@ I'm a passionate Full Stack Developer with expertise in modern web technologies.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ranthu-Sai&theme=dark" onerror="this.src='https://github-stats.vercel.app/api?username=Ranthu-Sai&theme=dark&hide_border=false'" onerror="this.src='https://github-stats-alpha.vercel.app/api?username=Ranthu-Sai&theme=dark&hide_border=false'" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ranthu-Sai&theme=dark" onerror="this.src='https://github-stats.vercel.app/api?username=Ranthu-Sai&theme=dark&hide_border=true'" onerror="this.src='https://github-stats-alpha.vercel.app/api?username=Ranthu-Sai&theme=dark&hide_border=true'" alt="GitHub Stats"/>
   <br/>
-  <img src="https://streak-stats.vercel.app/?user=Ranthu-Sai&theme=dark&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://streak-stats.vercel.app/?user=Ranthu-Sai&theme=dark&hide_border=true" alt="GitHub Streak"/>
   <br/>
   <table align="center" style="border-collapse: collapse;">
     <tr>
       <td style="padding: 0 5px;">
-        <img src="https://most-used-langs.vercel.app/api/top-langs?username=Ranthu-Sai&theme=dark&hide_border=false&layout=compact" alt="Top Languages"/>
+        <img src="https://most-used-langs.vercel.app/api/top-langs?username=Ranthu-Sai&theme=dark&hide_border=true&layout=compact" alt="Top Languages"/>
       </td>
       <td style="padding: 0 5px;">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ranthu-Sai&theme=dark" alt="Language Stats"/>

@@ -70,7 +70,7 @@ I'm a passionate Full Stack Developer with expertise in modern web technologies.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=Ranthu-Sai&theme=dark&hide_border=true" onerror="this.src='https://github-stats.vercel.app/api?username=Ranthu-Sai&theme=dark&hide_border=true'" onerror="this.src='https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ranthu-Sai&theme=dark'" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ranthu-Sai&theme=dark" onerror="this.src='https://github-stats.vercel.app/api?username=Ranthu-Sai&theme=dark&hide_border=true'" onerror="this.src='https://github-stats-alpha.vercel.app/api?username=Ranthu-Sai&theme=dark&hide_border=true'" alt="GitHub Stats"/>
   <br/>
   <img src="https://streak-stats.vercel.app/?user=Ranthu-Sai&theme=dark&hide_border=true" alt="GitHub Streak"/>
   <br/>

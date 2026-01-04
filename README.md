@@ -77,7 +77,7 @@ I'm a passionate Full Stack Developer with expertise in modern web technologies.
   <table align="center" style="border-collapse: collapse;">
     <tr>
       <td style="padding: 0 5px;">
-        <img src="https://most-used-langs.vercel.app/api/top-langs?username=Ranthu-Sai&theme=dark&hide_border=true&layout=compact" alt="Top Languages"/>
+        <img src="https://most-used-langs.vercel.app/api/top-langs?username=Ranthu-Sai&theme=dark&hide_border=true&layout=compact&t=20260104" alt="Top Languages"/>
       </td>
       <td style="padding: 0 5px;">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ranthu-Sai&theme=dark" alt="Language Stats"/>
